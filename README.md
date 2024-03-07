@@ -55,4 +55,3 @@ The Frog Leap Game is a console-based Python implementation of a classic puzzle 
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to modify and share the game as you like! If you encounter any issues or have suggestions, please create an issue or submit a pull request. Happy gaming!
